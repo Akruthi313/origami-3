@@ -1,0 +1,32 @@
+.header{
+    background-color: rgb(32, 250, 3);
+    display:flex;
+    justify-content:space-between;
+}
+h2{
+    text-align: center;
+    background-color: tomato;
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami{
+    border:2px solid purple;
+    border-radius: 20px;
+    
+
+    width: 310px;
+    font-family: fantasy;
+}
+p{
+    color:tomato;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+body{
+    background-color:rgb(241, 221, 194);
+}
